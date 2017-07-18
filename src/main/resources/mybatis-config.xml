@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+	<typeAliases>
+		<package name="com.dgit.domain"/>	<!-- 패키지명에 해당하는 모든 파일을  인식한다, 맵퍼에 파라미터 타입을 안적어도 된다. -->
+	</typeAliases>
+</configuration>
